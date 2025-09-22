@@ -1,0 +1,3 @@
+1. Git permite guardar el historial de cambios de un proyecto.
+2. GitHub sirve para almacenar y compartir repositorios en la nube.
+3. El comando git add prepara los archivos antes de hacer un commit.
